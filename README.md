@@ -1,0 +1,2 @@
+# logger
+Datalogic Logger application.
